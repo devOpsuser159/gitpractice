@@ -1,10 +1,9 @@
-I
-public class test
-{
-public static void main(string args[])
-{
-System.out.println("Hello......")
+class Hello{
+public static void main(string args[]){
+System.out.println("First programme")
 }
 
 
-}
+
+}:wq
+
